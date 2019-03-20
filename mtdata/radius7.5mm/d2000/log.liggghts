@@ -1,0 +1,4 @@
+LIGGGHTS (Version LIGGGHTS-PUBLIC 3.8.0, compiled 2018-10-25-19:19:56 by shinji, git commit 28301df8853491784b1d8b90533ea89b8c6af1e8)
+#!/bin/bash
+echo "Shellscript start"
+ERROR: Illegal echo command (../input.cpp:697)
